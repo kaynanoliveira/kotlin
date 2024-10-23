@@ -1,4 +1,4 @@
-// Intervalos em Kotlin
+// Intervalos em Kotlin de números
 
 fun main(){
 for(i in 0..3){          // vai do numero inicial ate o ultimo
